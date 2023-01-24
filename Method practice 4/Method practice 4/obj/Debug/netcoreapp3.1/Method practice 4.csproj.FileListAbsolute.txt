@@ -1,0 +1,14 @@
+C:\Users\User Widnows 10 Home\Documents\C#\23012023\Method practice 4\Method practice 4\bin\Debug\netcoreapp3.1\Method practice 4.exe
+C:\Users\User Widnows 10 Home\Documents\C#\23012023\Method practice 4\Method practice 4\bin\Debug\netcoreapp3.1\Method practice 4.deps.json
+C:\Users\User Widnows 10 Home\Documents\C#\23012023\Method practice 4\Method practice 4\bin\Debug\netcoreapp3.1\Method practice 4.runtimeconfig.json
+C:\Users\User Widnows 10 Home\Documents\C#\23012023\Method practice 4\Method practice 4\bin\Debug\netcoreapp3.1\Method practice 4.runtimeconfig.dev.json
+C:\Users\User Widnows 10 Home\Documents\C#\23012023\Method practice 4\Method practice 4\bin\Debug\netcoreapp3.1\Method practice 4.dll
+C:\Users\User Widnows 10 Home\Documents\C#\23012023\Method practice 4\Method practice 4\bin\Debug\netcoreapp3.1\Method practice 4.pdb
+C:\Users\User Widnows 10 Home\Documents\C#\23012023\Method practice 4\Method practice 4\obj\Debug\netcoreapp3.1\Method practice 4.csproj.AssemblyReference.cache
+C:\Users\User Widnows 10 Home\Documents\C#\23012023\Method practice 4\Method practice 4\obj\Debug\netcoreapp3.1\Method practice 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User Widnows 10 Home\Documents\C#\23012023\Method practice 4\Method practice 4\obj\Debug\netcoreapp3.1\Method practice 4.AssemblyInfoInputs.cache
+C:\Users\User Widnows 10 Home\Documents\C#\23012023\Method practice 4\Method practice 4\obj\Debug\netcoreapp3.1\Method practice 4.AssemblyInfo.cs
+C:\Users\User Widnows 10 Home\Documents\C#\23012023\Method practice 4\Method practice 4\obj\Debug\netcoreapp3.1\Method practice 4.csproj.CoreCompileInputs.cache
+C:\Users\User Widnows 10 Home\Documents\C#\23012023\Method practice 4\Method practice 4\obj\Debug\netcoreapp3.1\Method practice 4.dll
+C:\Users\User Widnows 10 Home\Documents\C#\23012023\Method practice 4\Method practice 4\obj\Debug\netcoreapp3.1\Method practice 4.pdb
+C:\Users\User Widnows 10 Home\Documents\C#\23012023\Method practice 4\Method practice 4\obj\Debug\netcoreapp3.1\Method practice 4.genruntimeconfig.cache

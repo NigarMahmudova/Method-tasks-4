@@ -1,0 +1,14 @@
+C:\Users\User Widnows 10 Home\Documents\C#\23012023\Acadamy tasks\Acadamy tasks\bin\Debug\netcoreapp3.1\Acadamy tasks.exe
+C:\Users\User Widnows 10 Home\Documents\C#\23012023\Acadamy tasks\Acadamy tasks\bin\Debug\netcoreapp3.1\Acadamy tasks.deps.json
+C:\Users\User Widnows 10 Home\Documents\C#\23012023\Acadamy tasks\Acadamy tasks\bin\Debug\netcoreapp3.1\Acadamy tasks.runtimeconfig.json
+C:\Users\User Widnows 10 Home\Documents\C#\23012023\Acadamy tasks\Acadamy tasks\bin\Debug\netcoreapp3.1\Acadamy tasks.runtimeconfig.dev.json
+C:\Users\User Widnows 10 Home\Documents\C#\23012023\Acadamy tasks\Acadamy tasks\bin\Debug\netcoreapp3.1\Acadamy tasks.dll
+C:\Users\User Widnows 10 Home\Documents\C#\23012023\Acadamy tasks\Acadamy tasks\bin\Debug\netcoreapp3.1\Acadamy tasks.pdb
+C:\Users\User Widnows 10 Home\Documents\C#\23012023\Acadamy tasks\Acadamy tasks\obj\Debug\netcoreapp3.1\Acadamy tasks.csproj.AssemblyReference.cache
+C:\Users\User Widnows 10 Home\Documents\C#\23012023\Acadamy tasks\Acadamy tasks\obj\Debug\netcoreapp3.1\Acadamy tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User Widnows 10 Home\Documents\C#\23012023\Acadamy tasks\Acadamy tasks\obj\Debug\netcoreapp3.1\Acadamy tasks.AssemblyInfoInputs.cache
+C:\Users\User Widnows 10 Home\Documents\C#\23012023\Acadamy tasks\Acadamy tasks\obj\Debug\netcoreapp3.1\Acadamy tasks.AssemblyInfo.cs
+C:\Users\User Widnows 10 Home\Documents\C#\23012023\Acadamy tasks\Acadamy tasks\obj\Debug\netcoreapp3.1\Acadamy tasks.csproj.CoreCompileInputs.cache
+C:\Users\User Widnows 10 Home\Documents\C#\23012023\Acadamy tasks\Acadamy tasks\obj\Debug\netcoreapp3.1\Acadamy tasks.dll
+C:\Users\User Widnows 10 Home\Documents\C#\23012023\Acadamy tasks\Acadamy tasks\obj\Debug\netcoreapp3.1\Acadamy tasks.pdb
+C:\Users\User Widnows 10 Home\Documents\C#\23012023\Acadamy tasks\Acadamy tasks\obj\Debug\netcoreapp3.1\Acadamy tasks.genruntimeconfig.cache
